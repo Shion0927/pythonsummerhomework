@@ -1,1 +1,3 @@
 # pythonsummerhomework
+夏休みのpython課題提出用のフォルダです
+Dockerコンテナによる仮想環境を使っています
